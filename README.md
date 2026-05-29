@@ -10,11 +10,11 @@ Created as part of my transition into IT support, focusing on clear communicatio
 
 ## Contents
 
-- Slow Computer Performance
-- Wi-Fi Connectivity Issues
-- Outlook Not Sending Emails
-- Basic macOS Troubleshooting
-- Password Reset and Account Lockout
+- [Slow Computer Performance](slow-computer-performance.md)
+- [Wi-Fi Connectivity Issues](wifi-connectivity-issues.md)
+- [Outlook Not Sending Emails](outlook-not-sending-emails.md)
+- [Basic macOS Troubleshooting](basic-macos-troubleshooting.md)
+- [Password Reset and Account Lockout](password-reset-account-lockout.md)
 
 ---
 
