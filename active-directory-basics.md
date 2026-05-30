@@ -103,6 +103,37 @@ Escalate if:
 - Repeated lockouts continue after basic checks
 - Security concerns are identified
 
+## Interview Questions
+
+### What is Active Directory?
+
+> Active Directory is Microsoft's directory service used to centrally manage users, computers, permissions and authentication within an organisation.
+
+### What are some common 1st line Active Directory tasks?
+
+> Common tasks include password resets, account unlocks, checking group membership, creating user accounts and helping users regain access to systems.
+
+### Why are groups used in Active Directory?
+
+> Groups allow permissions to be assigned to multiple users at once rather than managing each user individually.
+
+### What causes account lockouts?
+
+> Account lockouts are often caused by repeated incorrect password attempts or old credentials stored in applications, mobile devices or VPN clients.
+
+### What is the difference between authentication and authorisation?
+
+> Authentication verifies a user's identity, while authorisation determines what resources and systems they can access once authenticated.
+
+### A user can log into Windows but cannot access a shared drive. What would you check?
+
+> I'd determine whether the issue affects one user or multiple users, check group membership and permissions, review any error messages and confirm whether the user previously had access.
+
+### What would you do if a user could not log in?
+
+> I'd gather information about the error, verify the user's identity, determine whether the issue is related to passwords, account lockouts, MFA or connectivity, and then troubleshoot or escalate as appropriate.
+
+
 ## Interview Summary
 
 A strong 1st line explanation:
